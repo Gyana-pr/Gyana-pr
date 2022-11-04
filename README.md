@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS, React, MongoDB**
 
-- 💻 Currently working on **Quora-clone** Project
+- 💻 Currently working on **Question Answer Web Application** Project
 
 - 💬 Ask me about **Java**
 
