@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana-pr&label=Profile%20views&color=0e75b6&style=flat" alt="gyana-pr" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, React, MongoDB**
+- 🌱 I’m currently learning ****
 
-- 💻 Currently working on **Question Answer Web Application** Project
+- 💻 Currently working on **** Project
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **gyanaprakashbaral@gmail.com**
 
